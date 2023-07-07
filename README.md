@@ -1,12 +1,19 @@
-# Ml-Model-Accuracy-calucator
+# ML-Model-Accuracy-calculator
 
-This will provide you the performance of MachineLearning Algorithms like SVM,RANDOM FOREST,KNN for different kinds of datasets like Wine dataset,Iris and Breast Cancer Dataset and also it will provide the visualized plot which helps user to understand the performance of the model
+The ML-Model-Accuracy-calculator is a web-based application developed using the Python framework Streamlit. It provides the ability to calculate the accuracy of selected machine learning models.
 
- Summary     :    A Web-based Application developed using python framework       
-                  STREAMLIT that can calculate the accuracy of the selected     
-                  MachineLearning Model 
-                  
- Languages   :    Python
- 
- Frame Works :    STREAMLIT
+## Summary
+
+This application allows users to assess the performance of machine learning algorithms such as Support Vector Machine (SVM), Random Forest, and K-Nearest Neighbors (KNN) on various datasets including Wine, Iris, and Breast Cancer datasets. It also provides visualized plots to help users understand the performance of the models.
+
+## Technologies Used
+
+- Language: Python
+- Framework: Streamlit
+
+## Access the Application
+
+You can access the ML-Model-Accuracy-calculator application [here](http://ec2-16-170-216-13.eu-north-1.compute.amazonaws.com:5004/).
+
+Feel free to explore the application and analyze the accuracy of different machine learning models on various datasets.
 

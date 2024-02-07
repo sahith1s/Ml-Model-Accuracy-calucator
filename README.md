@@ -13,7 +13,7 @@ This application allows users to assess the performance of machine learning algo
 
 ## Access the Application
 
-You can access the ML-Model-Accuracy-calculator application [here](http://ec2-16-170-216-13.eu-north-1.compute.amazonaws.com:5004/).
+You can access the ML-Model-Accuracy-calculator application [here](http://ec2-16-170-15-151.eu-north-1.compute.amazonaws.com:5001/).
 
 Feel free to explore the application and analyze the accuracy of different machine learning models on various datasets.
 
